@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angithos&base=69&abbreviated=true&style=flat-square"  /> </p>
 
-- 🔭 I’m currently working on an AI-CHATBOT
+- 🔭 I’m currently working on an various projects
 
-- 💬 Ask me about *react, git, NodeJS, JS*
+- 💬 Ask me about *react,flutter, NodeJS, JS*
 
 - 📫 How to reach me *angithkrishna07@gmail.com*
 
-- ⚡Fun fact *I am bored😅*
+- ⚡Fun fact *Coding and me ,we have a love-hate relationship😅*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
